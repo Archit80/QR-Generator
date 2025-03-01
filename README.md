@@ -5,7 +5,7 @@ A simple React application to generate QR codes using the [Dub](https://dub.sh/)
 ## Features
 
 - Generate QR codes from any URL
-- Copy generated QR code to clipboard
+- Download generated QR code to device
 
 ## Tech Stack
 
