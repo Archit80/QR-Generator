@@ -22,8 +22,5 @@ A simple React application to generate QR codes using the [Dub](https://dub.sh/)
 - Start the development server with `npm run dev` or `yarn dev`
 - Open [http://localhost:5173](http://localhost:5173) with your browser to see the result
 
-## License
-
-MIT License
 
 Copyright (c) 2023 Archit
